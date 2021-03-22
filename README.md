@@ -88,7 +88,7 @@ Love to solve complex things in simple ways.
      </td>
       <td>
       <a href="https://github.com/ankit1509/ankit1509.github.io">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ankit1509&repo=ankit1509.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ankit1509&repo=My-Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
       </a>
      </td>
   </tr>
