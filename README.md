@@ -34,7 +34,7 @@ Love to solve complex things in simple ways.
 <!-- <a href="https://www.codechef.com/users/ch_hamdan">
   <img align="center" alt="Ankit's Codechef" width="25px" src="Assets/codechef.png" />
 </a> -->
-<a href="https://www.hackerrank.com/ch_hamdan_edu">
+<a href="https://www.hackerrank.com/ac2000choudhary">
   <img align="center" alt="Ankit's Hackerrank" width="25px" src="Assets/hackerrank.png" />
 </a>
 <a href="https://github.com/ankit1509">
@@ -82,20 +82,20 @@ Love to solve complex things in simple ways.
 <table>
   <tr>
     <td>
-      <a href="https://github.com/ankit1509s/ankit1509s"> 
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit1509s&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ankit's GitHub Stats" width="400" />
+      <a href="https://github.com/ankit1509/ankit1509"> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit1509&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ankit's GitHub Stats" width="400" />
       </a>
      </td>
       <td>
-      <a href="https://github.com/ankit1509s/ankit1509s.github.io">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ankit1509s&repo=ankit1509s.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
+      <a href="https://github.com/ankit1509/ankit1509.github.io">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ankit1509&repo=ankit1509.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
       </a>
      </td>
   </tr>
 </table>
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ankit1509s)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ankit1509)](https://github.com/ryo-ma/github-profile-trophy)
 <hr>
 
 <h2>Starring repos will be appreciated as your ❤️ for me. 😃 </h2>
