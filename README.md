@@ -13,7 +13,7 @@ Love to solve complex things in simple ways.
 
 
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/ankit1509/ankit1509/master/wave.gif" width="230px" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit1509&theme=dark&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit1509&langs_count=10&theme=dark&show_icons=true"/>
 
 
 <a href="https://www.linkedin.com/in/ankit-choudhary-342410175/">
