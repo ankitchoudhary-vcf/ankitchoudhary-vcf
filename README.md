@@ -46,14 +46,14 @@ Love to solve complex things in simple ways.
 
 **Talking about Personal Stuffs:**
 
-- 📈I'm currently pursuing my Computer science Engineering.
-- 💻I love innovating new things which can transform the living.
-- 🤓Making new things learning new stuffs
-- 👨🏻‍💻I do competitive programming and love ML and DS.
-- 🤝Ask anything, would love to help if I can.
-- 🏢Available for Internships.
-- 📝Resume -> <a href="https://ankit1509.github.io/My-Portfolio/image/Ankit%20Choudhary%20Resume.pdf"><img align="center" alt="Ankit's Resume" width="35px" src="Assets/resume.png" /></a>
-- 📝My Website -> <a href="https://ankit1509.github.io/My-Portfolio/"><img align="center" alt="Ankit's Resume" width="35px" src="website.jpg" /></a>
+  - 📈I'm currently pursuing my Computer science Engineering.
+  - 💻I love innovating new things which can transform the living.
+  - 🤓Making new things learning new stuffs
+  - 👨🏻‍💻I do competitive programming and love ML and DS.
+  - 🤝Ask anything, would love to help if I can.
+  - 🏢Available for Internships.
+  - 📝Resume -> <a href="https://ankit1509.github.io/My-Portfolio/image/Ankit%20Choudhary%20Resume.pdf"><img align="center" alt="Ankit's Resume" width="35px"              src="Assets/resume.png" /></a>
+  - 📝My Website -> <a href="https://ankit1509.github.io/My-Portfolio/"><img align="center" alt="Ankit's Resume" width="35px" src="website.jpg" /></a>
 <hr>
 
 ***Techs and tools I use :***
@@ -87,7 +87,7 @@ Love to solve complex things in simple ways.
       </a>
      </td>
       <td>
-      <a href="https://github.com/ankit1509/ankit1509.github.io">
+      <a href="https://ankit1509.github.io/My-Portfolio/">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ankit1509&repo=My-Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400" />
       </a>
      </td>
