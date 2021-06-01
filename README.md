@@ -32,6 +32,8 @@ To have a look at my work visit My portfolio which was given below.
 A CS student at [Anand International College of Engineering](https://anandice.ac.in/). Dream to be a <b>FAANG™️</b> Engineer.<br>
 Love to solve complex things in simple ways.
 
+<img align="right" height="270px" width="auto" alt="GIF" src="wave.gif" />
+
 **Talking about Personal Stuffs:**
 
   - 📈I'm currently pursuing my Computer science Engineering.
