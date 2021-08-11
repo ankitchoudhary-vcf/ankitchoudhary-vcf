@@ -180,5 +180,6 @@ Love to solve complex things in simple ways.
 <hr/>
 
 <img alt="Views" title="Profile Views" src="https://gpvc.arturio.dev/ankit1509"/>
+<img alt="Views" title="Profile View" src="https://komarev.com/ghpvc/?username=ankit1509&color=blue"/>
 <hr/>
 <hr/>
