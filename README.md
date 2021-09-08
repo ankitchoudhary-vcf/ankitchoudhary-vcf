@@ -22,7 +22,6 @@
 
 I'm [Ankit Choudhary](https://www.linkedin.com/in/ankit-choudhary-342410175/), a computer science Engineer and an enthusiastic person always seeking a chance to learn new things. With my hard work and determination.
 
-Recently, I have done some minor projects like Bank Management System, VImage, VBrowser, VMediaPlayer and currently working on that with my team. Out of which three are desktop base applications and one of them is web-based applications. That's a brief on my project side.
 
 I like learning new programming languages. So far I am a learner of C, C++, Python, javascript, HTML, CSS, C#, and XMAL.
 
