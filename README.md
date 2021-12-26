@@ -22,6 +22,7 @@
 
 I'm [Ankit Choudhary](https://www.linkedin.com/in/ankit-choudhary-342410175/), a computer science Engineer and an enthusiastic person always seeking a chance to learn new things. With my hard work and determination.
 
+A passionate⚡individual who always thrive to work on end to end products which develop sustainable, scalable, social and technical systems to create impact.
 
 I like learning new programming languages. So far I am a learner of C, C++, Python, javascript, HTML, CSS, C#, and XMAL.
 
