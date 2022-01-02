@@ -180,5 +180,6 @@ Love to solve complex things in simple ways.
 <hr/>
 
 <img alt="Views" title="Profile Views" src="https://gpvc.arturio.dev/ankit1509"/>
+[![wakatime](https://wakatime.com/badge/user/1ac11913-05c8-4bfc-bb41-f0aa41bc5124.svg)](https://wakatime.com/@1ac11913-05c8-4bfc-bb41-f0aa41bc5124)
 <hr/>
 <hr/>
