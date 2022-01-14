@@ -29,7 +29,7 @@ I like learning new programming languages. So far I am a learner of C, C++, Pyth
 To have a look at my work visit My portfolio which was given below. 
 [Ankit Choudhary](https://ankit1509.github.io/My-Portfolio/)!
 
-A CS student at [Anand International College of Engineering](https://anandice.ac.in/). Dream to be a <b>FAANG™️</b> Engineer.<br>
+A CS student at [Anand International College of Engineering](https://anandice.ac.in/).<br>
 Love to solve complex things in simple ways.
 
 <img align="right" height="270px" width="auto" alt="GIF" src="wave.gif" />
@@ -39,7 +39,7 @@ Love to solve complex things in simple ways.
   - 📈I'm currently pursuing my Computer science Engineering.
   - 💻I love innovating new things which can transform the living.
   - 🤓Making new things learning new stuffs
-  - 👨🏻‍💻I do competitive programming and love ML and DS.
+  - 👨🏻‍💻I do competitive programming and love Software Development.
   - 🤝Ask anything, would love to help if I can.
   - 🏢Available for Internships.
   - 📝Resume -> <a href="https://ankit1509.github.io/My-Portfolio/image/Ankit%20Choudhary%20Resume.pdf"><img align="center" alt="Ankit's Resume" width="35px"              src="Assets/resume.png" /></a>
