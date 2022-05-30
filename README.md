@@ -13,8 +13,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20Developer;A%20MEAN%20Stack%20Developer;Self-taught%20UI%2FUX%20Designer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/ankit1509">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ankit1509?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/soyankitchoudhary">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/soyankitchoudhary?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 <hr>
 
@@ -27,7 +27,7 @@ A passionate⚡individual who always thrive to work on end to end products which
 I like learning new programming languages. So far I am a learner of C, C++, Python, javascript, HTML, CSS, C#, and XMAL.
 
 To have a look at my work visit My portfolio which was given below. 
-[Ankit Choudhary](https://ankit1509.github.io/My-Portfolio/)!
+[Ankit Choudhary](https://soyankitchoudhary.github.io/My-Portfolio/)!
 
 A CS student at [Anand International College of Engineering](https://anandice.ac.in/).<br>
 Love to solve complex things in simple ways.
@@ -42,8 +42,8 @@ Love to solve complex things in simple ways.
   - 👨🏻‍💻I do competitive programming and love Software Development.
   - 🤝Ask anything, would love to help if I can.
   - 🏢Available for Internships.
-  - 📝Resume -> <a href="https://ankit1509.github.io/My-Portfolio/image/Ankit%20Choudhary%20Resume.pdf"><img align="center" alt="Ankit's Resume" width="35px"              src="Assets/resume.png" /></a>
-  - 📝My Website -> <a href="https://ankit1509.github.io/My-Portfolio/"><img align="center" alt="Ankit's Website" width="35px" src="website.jpg" /></a>
+  - 📝Resume -> <a href="https://soyankitchoudhary.github.io/My-Portfolio/image/Ankit%20Choudhary%20Resume.pdf"><img align="center" alt="Ankit's Resume" width="35px"              src="Assets/resume.png" /></a>
+  - 📝My Website -> <a href="https://soyankitchoudhary.github.io/My-Portfolio/"><img align="center" alt="Ankit's Website" width="35px" src="website.jpg" /></a>
 <hr>
 
 
@@ -51,7 +51,7 @@ Love to solve complex things in simple ways.
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
-  <a href="https://www.github.com/ankit1509"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.github.com/soyankitchoudhary"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/vcf-ankitchoudhary"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/15871551/ankit-choudhary"><img alt="StackOverflow" title="StackOverflow" src="https://img.shields.io/badge/-stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
   <a href="https://www.instagram.com/ankitchoudhary8322/">
@@ -65,7 +65,7 @@ Love to solve complex things in simple ways.
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ankit1509's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit1509&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="soyankitchoudhary's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=soyankitchoudhary&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
@@ -147,8 +147,8 @@ Love to solve complex things in simple ways.
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ankit1509's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ankit1509&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ankit1509's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ankit1509&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="soyankitchoudhary's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=soyankitchoudhary&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="soyankitchoudhary's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=soyankitchoudhary&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br/>
@@ -157,7 +157,7 @@ Love to solve complex things in simple ways.
 <details> 
   <summary>🏆 GitHub Profile Trophy</summary>
   <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="ankit1509's Top Languages" src="https://github-profile-trophy.vercel.app/?username=ankit1509&theme=radical" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="soyankitchoudhary's Top Languages" src="https://github-profile-trophy.vercel.app/?username=soyankitchoudhary&theme=radical" /></a>
   <br/>
   <br/>
 </details>
@@ -165,21 +165,21 @@ Love to solve complex things in simple ways.
 <details> 
   <summary>💻 My Organization</summary>
   <br/>
-  <img alt="ankit1509's Organizations" src="https://orgstats.vercel.app/?username=ankit1509"/>
+  <img alt="soyankitchoudhary's Organizations" src="https://orgstats.vercel.app/?username=soyankitchoudhary"/>
   <br/>
   <br/>
 </details>
 <br/>
 
-<img alt="ankit1509's Github Metrics" src="https://metrics.lecoq.io/ankit1509" />
+<img alt="soyankitchoudhary's Github Metrics" src="https://metrics.lecoq.io/soyankitchoudhary" />
 <br/>
 <br/>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ankit1509's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankit1509&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="soyankitchoudhary's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=soyankitchoudhary&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <hr/>
 
-<img alt="Views" title="Profile Views" src="https://gpvc.arturio.dev/ankit1509"/>
+<img alt="Views" title="Profile Views" src="https://gpvc.arturio.dev/soyankitchoudhary"/>
 <a href="https://wakatime.com/@1ac11913-05c8-4bfc-bb41-f0aa41bc5124"><img src="https://wakatime.com/badge/user/1ac11913-05c8-4bfc-bb41-f0aa41bc5124.svg" alt="Total time coded since Apr 17 2021" /></a>
 <hr/>
 <hr/>
