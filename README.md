@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="./banner.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
 </div>
